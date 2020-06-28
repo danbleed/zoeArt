@@ -1,5 +1,5 @@
 ![Zoe Bleed](zoe.jpg)
 
-### Paintings  https://danbleed.github.io/zoeArt/door.md - automatic
+### Paintings      <a href="https://danbleed.github.io/zoeArt/dooe.md">Door painting</a>
 
 
