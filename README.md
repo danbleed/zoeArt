@@ -1,4 +1,4 @@
 ### Paintings      
-<a href="http://danbleed?github.io/door.md">Door</a>
+<a href="http://danbleed.github.io/zoeArt/door.md">Door painting</a>
 ![Zoe Bleed](zoe.jpg)
 
